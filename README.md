@@ -110,4 +110,5 @@ B3T 的其发行总量是 20 亿个，具体的分配比例如下：
 * 2015 年完成黑客派众筹，B3 社区开始尝试商业化发展
 * 2016 年萌生原始创意[疯狂的想法 C：书籍共享计划](https://hacpai.com/article/1483240295087)
 * 2017 年通过微信小程序实现[客户端](https://github.com/b3log/symphony-weapp)并上线[书单计划](https://hacpai.com/tag/book_share)
+* 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
 * 2018 年通过区块链解决信任问题，实现书籍共享激励与价值传递
