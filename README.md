@@ -87,9 +87,14 @@ B3T 的其发行总量是 20 亿个，具体的分配比例如下：
 
 ## 发展历程
 
+* 2009 年萌生 [B3log 社区构思](http://88250.b3log.org/articles/2009/12/09/1260370800000.html) 
+* 2010 年发布开源的个人独立博客产品 [Solo](https://github.com/b3log/solo)
+* 2012 年上线 B3 社区线上论坛[黑客派](https://hacpai.com)，并以 [Sym](https://github.com/b3log/symphony) 作为产品名开源
+* 2014 年上线 Go 语言在线开发环境 [Wide](https://wide.b3log.org)，并将其[开源](https://github.com/b3log/wide)
+* 2015 年完成黑客派众筹，B3 社区开始尝试商业化发展
 * 2016 年萌生原始创意[疯狂的想法 C：书籍共享计划](https://hacpai.com/article/1483240295087)
 * 2017 年通过微信小程序实现[客户端](https://github.com/b3log/symphony-weapp)并上线[书单计划](https://hacpai.com/tag/book_share)
-* 2018 年通过区块链解决信任问题，实现书籍共享激励与价值链
+* 2018 年通过区块链解决信任问题，实现书籍共享激励与价值传递
 
 ## 开源协议
 
