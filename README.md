@@ -2,7 +2,13 @@
 
 ## 简介
 
-[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区的去中心化书籍共享服务，通过社区发行的以太坊代币 [B3T](TBD) 实现共享激励与价值链。
+[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区的去中心化的书籍共享服务，通过社区发行的以太坊令牌 [B3T](TBD) 实现共享激励与价值链。
+
+链书主要通过如下组件实现服务：
+
+* [社区小程序](https://github.com/b3log/symphony-weapp)：扫 ISBN 进行存书，扫快递单号进行书籍共享
+* [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现书籍管理以及 B3T 管理
+* [B3T 智能合约](TBD)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
 
 ## 使用流程
 
