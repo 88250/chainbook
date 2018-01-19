@@ -337,13 +337,6 @@ contract BurnableToken is PausableToken {
 /**
  * @title B3log Token
  * @dev ERC20 B3log Token
- *
- * B3T are displayed using 8 decimal places of precision.
- *
- * 2 Billion B3T total supply:
- *   2,000,000,000 * 1e8 == 200e7 * 10**8 == 185e15
- *
- * All initial B3T are assigned to the creator of this contract.
  */
 contract B3T is BurnableToken {
 
