@@ -1,7 +1,7 @@
 // B3log Token
 //   https://hacpai.com
 //   https://github.com/b3log
-pragma solidity ^0.4.18;
+pragma solidity ^0.4.19;
 
 /**
  * @title SafeMath
