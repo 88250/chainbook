@@ -1,7 +1,7 @@
 // B3log Token
 //   https://hacpai.com
 //   https://github.com/b3log
-pragma solidity ^0.4.19;
+pragma solidity ^0.4.18;
 
 /**
  * @title SafeMath
@@ -344,7 +344,7 @@ contract B3T is BurnableToken {
   string public symbol = "B3T";
   uint8 public decimals = 18;
 
-  uint256 public constant INITIAL_SUPPLY = 2000000000 * 10**uint256(decimals);
+  uint256 public constant INITIAL_SUPPLY = 2000000000 * 10**uint256(18);
 
   /**
    * @dev Constructor that gives msg.sender all of existing tokens.
