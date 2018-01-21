@@ -2,13 +2,13 @@
 
 ## 简介
 
-[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区的去中心化的书籍共享服务，通过社区发行的以太坊令牌 [B3T](TBD) 实现共享激励与价值链。
+[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区的去中心化的书籍共享服务，通过社区发行的以太坊令牌 [B3T](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e) 实现共享激励与价值链。
 
 链书主要通过如下组件实现服务：
 
 * [社区小程序](https://github.com/b3log/symphony-weapp)：扫 ISBN 进行存书，扫快递单号进行书籍共享
 * [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现书籍、B3T 管理
-* [B3T 智能合约](TBD)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
+* [B3T 合约](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
 
 ## 使用流程
 
@@ -118,6 +118,6 @@ B3 社区募集到的 ETH 用途分配如下：
 * 2015 年完成黑客派众筹，B3 社区开始尝试商业化发展
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
-* 2018 年在以太坊平台上发行 [B3T](TBD)，实现 B3 社区基础价值的统一，上线链书
+* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3 社区基础价值的统一，上线链书
 
 ### 总结
