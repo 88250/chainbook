@@ -8,7 +8,7 @@
 
 * [社区小程序](https://github.com/b3log/symphony-weapp)：扫 ISBN 进行存书，扫快递单号进行书籍共享
 * [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现书籍、B3T 管理
-* [B3T 合约](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
+* [B3T 合约](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
 
 ## 使用流程
 
@@ -53,22 +53,44 @@
 * 多平台发布令牌后的互操作性
 * 去中心化的 B3log Coin 主网  
 
-## 关于 B3T
+### 关于 B3T
 
-B3T（B3log Token）是 B3 社区在以太坊上发行的 ERC20 令牌，可用于：
+[B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)（B3log Token）是 B3 社区在以太坊上发行的 ERC20 令牌，可用于：
 
 * 支付 B3 社区内提供的各类应用和服务，例如去中心化的个人自媒体服务
 * 支付 B3 社区内其他用户提供的实物商品，例如二手物品
-* 打赏 B3 社区内其他用户创造的网络内容，例如帖子打赏、分享
+* 支付 B3 社区内其他用户创造的网络内容，例如帖子打赏、分享
 
-B3T 为 B3 社区在更大范围内的影响实现了基础价值的统一。
+**B3T 为 B3 社区在更大范围内的影响实现了基础价值的统一。
+**
 
 B3T 的其发行总量是 20 亿个，具体的分配比例如下：
 
-* 3% 早期用户：按[黑客派](https://hacpai.com)注册时间、邀请数、积分余额、活跃度等历史数据进行计算并赠送排名前 5000 的用户
+* 3% 早期用户：按[黑客派](https://hacpai.com)贡献点赠送排名前 5000 的用户
 * 7% B3 团队：主要用于社区服务的开发和调试
 * 10% 社区激励：用于奖励为社区发展创造价值的用户
 * 80% 认购：目前暂不对外公开认购
+
+### 合约地址
+
+B3T 的合约地址为：**0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e**，可以直接通过以太坊区块浏览器进行[查看](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)。
+
+请大家在自己的钱包上设置关注这个地址，这样才能查看自己的 B3T 余额并使用 B3T。
+
+### B3 社区糖果
+
+在 2018 年春节时会空投 6 千万个 B3T（总量的 3%）给社区的早期用户：
+
+* 社区综合排名前 5000（[点此查看](https://hacpai.com/settings)自己的排名），按社区贡献点来进行分配
+* 填写了以太坊地址（[点此设置](https://hacpai.com/settings/wallet)自己的以太坊地址）
+
+其中贡献点的计算主要由如下数据组成：
+
+* 邀请注册数（[点此查看](https://hacpai.com/settings/invite)自己的邀请链接）
+* 帖子分享点击数（使用帖子左边的分享工具分享均纳入统计）
+* 发帖 / 回帖数
+
+其他计算权重较低的数据还包括注册时间、积分余额、活跃度等。
 
 ### 提币流程
 
@@ -118,6 +140,6 @@ B3 社区募集到的 ETH 用途分配如下：
 * 2015 年完成黑客派众筹，B3 社区开始尝试商业化发展
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
-* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3 社区基础价值的统一，上线链书
+* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3 社区基础价值的统一，上线链书
 
 ### 总结
