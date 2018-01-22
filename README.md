@@ -40,7 +40,7 @@
 
 ### 架构设计
 
-![Arch](https://user-images.githubusercontent.com/873584/35210789-97212956-ff8e-11e7-9f9d-a64a23aa7de6.jpg)
+![Arch](https://user-images.githubusercontent.com/873584/35210948-37f3f3d6-ff8f-11e7-916c-fc754841c870.png)
 
 ### 智能合约
 
