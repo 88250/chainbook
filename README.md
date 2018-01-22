@@ -120,6 +120,8 @@ B3 社区募集到的 ETH 用途分配如下：
 
 **目前暂不对外公开募集，详情请加 [B3 电报群](https://t.me/b3logcoin) 联系管理员。**
 
+请注意，充值 B3T 不是投资，并且不能将其视为投资。B3T 由社区用户拥有，早期的支持者将是 B3log 未来远见的卓识者。
+
 ## 联系方式
 
 * [社区论坛](https://hacpai.com/tag/B3T)
@@ -138,6 +140,11 @@ B3 社区募集到的 ETH 用途分配如下：
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)：安全的智能合约基础库
 * [INFURA](https://infura.io)：为以太坊、IPFS 提供安全、可靠和可伸缩的区块链基础设施
 
+### 总结
+
+链书旨在为旧书创造一个全新的共享平台，让旧书发挥其最大的社会价值。技术上基于区块链实现高效互信的数据共享和价值传递，并通过 B3T 实现社区基础价值的统一。
+
+
 ----
 
 ## 附录
@@ -152,7 +159,3 @@ B3 社区募集到的 ETH 用途分配如下：
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
 * 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3 社区基础价值的统一，上线链书
-
-### 总结
-
-TBD
