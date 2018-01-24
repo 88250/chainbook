@@ -2,7 +2,7 @@
 
 ## 简介
 
-[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区提供的去中心化纸质书共享服务，通过社区发行的以太坊令牌 [B3T](https://etherscan.io/address/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e) 实现共享激励与价值链。
+[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区提供的去中心化纸质书共享服务，通过社区发行的以太坊令牌 [B3T](https://hacpai.com/article/1516547810228) 实现共享激励与价值链。
 
 链书主要通过如下组件实现服务：
 
