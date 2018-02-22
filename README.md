@@ -61,7 +61,7 @@
 
 * [社区论坛](https://hacpai.com/tag/B3T)
 * [QQ 群 618817478](https://shang.qq.com/wpa/qunwpa?idkey=774db3af72d630c1ab91550763f55265e4b3e8c4b8d953dd51070561b114afef)
-* [电报群](https://t.me/b3logcoin)
+* [电报群](https://t.me/b3log)
 
 ## 鸣谢
 
