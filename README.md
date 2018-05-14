@@ -73,6 +73,10 @@ TBD
 * [QQ 群 618817478](https://shang.qq.com/wpa/qunwpa?idkey=774db3af72d630c1ab91550763f55265e4b3e8c4b8d953dd51070561b114afef)
 * [电报群](https://t.me/b3log)
 
+## 总结
+
+链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的数据共享和价值传递，最终通过 B3T 实现社区基础价值的完整统一。
+
 ## 鸣谢
 
 链书的诞生离不开以下项目：
@@ -80,10 +84,7 @@ TBD
 * [Ethereum Project](https://www.ethereum.org)：运行智能合约的去中心化平台
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)：安全的智能合约基础库
 * [INFURA](https://infura.io)：为以太坊、IPFS 提供安全、可靠和可伸缩的区块链基础设施
-
-### 总结
-
-链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的数据共享和价值传递，最终通过 B3T 实现社区基础价值的完整统一。
+* [WePY](https://github.com/Tencent/wepy)：小程序组件化开发框架
 
 ----
 
