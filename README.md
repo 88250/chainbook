@@ -6,15 +6,15 @@
 
 链书主要通过如下组件实现服务：
 
-* [社区小程序](https://github.com/b3log/symphony-weapp)：扫 ISBN 进行存书，扫快递单号进行书籍共享
-* [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现书籍、B3T 管理
+* B3log开源链书：微信小程序，扫 ISBN 进行书籍共享，通过 B3T 对书籍定价和交易
+* [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现账号系统、书籍管理、B3T 转账等
 * [B3T 合约](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
 
 ## 使用流程
 
 ### 注册黑客派
 
-[黑客派](https://hacpai.com)是 B3 社区的线上论坛，要使用链书必须先注册黑客派。
+[黑客派](https://hacpai.com)是 B3 社区的线上论坛，要使用链书必须先注册黑客派，小程序实现了通过微信登录授权注册账号。
 
 ### 存书与分享
 
@@ -34,7 +34,6 @@
 
 * 大多数情况下 B3T 会在 B3 社区**站内**围绕具体应用场景（例如链书）进行交易流转
 * 可以对 B3T 进行充值或提现
-* 后续可能会引入[雷电网络](https://raiden.network)来支持实时交易
 
 ## 技术实现
 
@@ -55,7 +54,8 @@
 
 ## 关于 B3T
 
-请浏览：**[B3log 社区币 B3T 发布](https://hacpai.com/article/1516547810228)**
+* [B3log 社区币 B3T 发布](https://hacpai.com/article/1516547810228)
+* [关于 B3T 提币开放的公告](https://hacpai.com/article/1520475188028)
 
 ## 联系方式
 
