@@ -2,19 +2,19 @@
 
 ## 简介
 
-[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3 社区提供的去中心化纸质书共享应用，通过社区发行的以太坊令牌 [B3T](https://hacpai.com/article/1516547810228) 实现共享激励与价值链。
+[链书](https://github.com/b3log/chainbook)（Chainbook）是 B3log 社区提供的去中心化纸质书共享应用，通过社区发行的以太坊令牌 [B3T](https://hacpai.com/article/1516547810228) 实现共享激励与价值链。
 
 链书主要通过如下组件实现服务：
 
 * B3log开源链书：微信小程序，扫 ISBN 进行书籍共享，通过 B3T 对书籍定价和交易
-* [黑客派](https://hacpai.com)：B3 社区的线上论坛，实现账号系统、书籍管理、B3T 转账等
-* [B3T 合约](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
+* [黑客派](https://hacpai.com)：B3log 社区的线上论坛，实现账号系统、书籍管理、B3T 转账等
+* [B3T 合约](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)：B3log 社区令牌合约，实现 B3T 发行、转账等以太坊 ERC20 令牌的功能
 
 ## 使用流程
 
 ### 注册黑客派
 
-[黑客派](https://hacpai.com)是 B3 社区的线上论坛，要使用链书必须先注册黑客派，小程序实现了通过微信登录授权注册账号。
+[黑客派](https://hacpai.com)是 B3log 社区的线上论坛，要使用链书必须先注册黑客派，小程序实现了通过微信登录授权注册账号。
 
 ### 交易书籍
 
@@ -57,7 +57,7 @@
 
 ## 总结
 
-链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的数据共享和价值传递，最终通过 B3T 实现社区基础价值的完整统一。
+链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的书籍共享和价值传递，最终通过 B3T 实现 B3log 社区基础价值的完整统一。
 
 ## 鸣谢
 
@@ -72,13 +72,13 @@
 
 ## 附录
 
-### B3 社区简史
+### B3log 社区简史
 
 * 2009 年萌生 [B3log 社区构思](http://88250.b3log.org/articles/2009/12/09/1260370800000.html) 
-* 2010 年发布开源的个人独立博客产品 [Solo](https://github.com/b3log/solo)
-* 2012 年上线 B3 社区线上论坛[黑客派](https://hacpai.com)，并将其[开源](https://github.com/b3log/symphony)
+* 2010 年发布开源博客系统 [Solo](https://github.com/b3log/solo)
+* 2012 年上线 B3log 社区线上论坛[黑客派](https://hacpai.com)，并将其[开源](https://github.com/b3log/symphony)
 * 2014 年上线 Go 语言在线开发环境 [Wide](https://wide.b3log.org)，并将其[开源](https://github.com/b3log/wide)
-* 2015 年完成黑客派众筹，B3 社区开始尝试商业化发展
+* 2015 年完成黑客派众筹，B3log 社区开始尝试商业化发展
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
-* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3 社区基础价值的统一，上线链书
+* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3log 社区基础价值的统一，上线链书
