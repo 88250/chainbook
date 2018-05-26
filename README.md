@@ -50,11 +50,6 @@
 * [B3log 开源社区币 B3T 发布](https://hacpai.com/article/1516547810228)
 * [关于 B3T 提币开放的公告](https://hacpai.com/article/1520475188028)
 
-## 联系方式
-
-* [社区论坛](https://hacpai.com/tag/B3T)
-* [电报群](https://t.me/b3log)
-
 ## 总结
 
 链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的书籍共享和价值传递，最终通过 B3T 实现 B3log 开源社区基础价值的完整统一。
@@ -71,6 +66,16 @@
 ----
 
 ## 附录
+
+### B3log 开源社区
+
+* 首页：https://b3log.org
+* 黑客派：https://hacpai.com
+* GitHub：https://github.com/b3log
+* Twitter：https://twitter.com/b3logos
+* Telegram ：https://t.me/b3log
+* 微信公众号：b3logos
+* 微博：https://weibo.com/2778228501
 
 ### B3log 开源社区简史
 
