@@ -57,7 +57,7 @@
 
 ## 总结
 
-链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的书籍共享和价值传递，最终通过 B3T 实现 B3log 社区基础价值的完整统一。
+链书旨在为闲置书籍创造一个全新的共享平台，让有价值的闲置书籍发挥其最大的社会价值。链书基于区块链技术，实现了高效互信的书籍共享和价值传递，最终通过 B3T 实现 B3log 开源社区基础价值的完整统一。
 
 ## 鸣谢
 
@@ -72,13 +72,13 @@
 
 ## 附录
 
-### B3log 社区简史
+### B3log 开源社区简史
 
-* 2009 年萌生 [B3log 社区构思](http://88250.b3log.org/articles/2009/12/09/1260370800000.html) 
+* 2009 年萌生 [B3log 构思](http://88250.b3log.org/articles/2009/12/09/1260370800000.html) 
 * 2010 年发布开源博客系统 [Solo](https://github.com/b3log/solo)
-* 2012 年上线 B3log 社区线上论坛[黑客派](https://hacpai.com)，并将其[开源](https://github.com/b3log/symphony)
+* 2012 年上线 B3log 开源社区线上论坛[黑客派](https://hacpai.com)，并将其[开源](https://github.com/b3log/symphony)
 * 2014 年上线 Go 语言在线开发环境 [Wide](https://wide.b3log.org)，并将其[开源](https://github.com/b3log/wide)
-* 2015 年完成黑客派众筹，B3log 社区开始尝试商业化发展
+* 2015 年完成黑客派众筹，B3log 开源社区开始尝试商业化发展
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
-* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3log 社区基础价值的统一，上线链书
+* 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3log 开源社区基础价值的统一，上线链书
