@@ -8,14 +8,14 @@
   * [细节规则](#细节规则)
 * [技术实现](#技术实现)
   * [架构设计](#架构设计)
-  * [ERC20 令牌](#ERC20+令牌)
+  * [ERC20 令牌](#ERC20-令牌)
   * [路线图](#路线图)
-* [关于 B3T](#关于+B3T)
+* [关于 B3T](#关于-B3T)
 * [总结](#总结)
 * [鸣谢](#鸣谢)
 * [附录](#附录)
-  * [B3log 开源社区](#B3log+开源社区)
-  * [B3log 开源社区简史](#B3log+开源社区简史)
+  * [B3log 开源社区](#B3log-开源社区)
+  * [B3log 开源社区简史](#B3log-开源社区简史)
 
 ## 简介
 
@@ -79,7 +79,7 @@
 * B3T 是完整实现 ERC20 标准的以太坊令牌，基础部分使用 [OpenZepplin](https://openzeppelin.org) 开源的合约库
 * 遵循 [ConsenSys](https://consensys.net) 发布的[智能合约最佳实践](https://github.com/ConsenSys/smart-contract-best-practices)进行开发
 
-### 技术路线
+### 路线图
 
 * [x] M1 社区站内交易
 * [ ] M2 以太坊链上交易
