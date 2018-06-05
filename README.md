@@ -1,4 +1,4 @@
-# 链书
+# <img src="https://user-images.githubusercontent.com/873584/40976715-9166f874-6901-11e8-90f7-2d7999289391.png"> [链书](https://github.com/b3log/chainbook)
 
 ## 简介
 
@@ -110,3 +110,11 @@
 * 2016 年萌生[书籍共享计划](https://hacpai.com/article/1483240295087)，通过微信小程序实现并开源[客户端](https://github.com/b3log/symphony-weapp)，上线[书单](https://hacpai.com/tag/book_share)
 * 2017 年上线博客平台 [Pipe](http://pipe.b3log.org)，并将其[开源](https://github.com/b3log/pipe)
 * 2018 年在以太坊平台上发行 [B3T](https://etherscan.io/token/0xe249e7a6f5a9efee03b4c5090c77245ef6fe0f5e)，实现 B3log 开源社区基础价值的统一，上线链书
+
+----
+
+<p align = "center">
+<strong>下一代的闲置纸质书交易平台，为未来而构建</strong>
+<br><br>
+<img src="https://user-images.githubusercontent.com/873584/40976894-00d0915c-6902-11e8-8230-70f88a69a25f.png">
+</p>
