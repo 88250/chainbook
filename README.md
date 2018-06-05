@@ -55,18 +55,18 @@
 
 ### 架构设计
 
-![Arch](https://user-images.githubusercontent.com/873584/35210948-37f3f3d6-ff8f-11e7-916c-fc754841c870.png)
+![Arch](https://user-images.githubusercontent.com/873584/40983020-3c14096a-6911-11e8-9004-7ffc36c0e947.png)
 
-### 智能合约
+### ERC20 令牌
 
 * B3T 是完整实现 ERC20 标准的以太坊令牌，基础部分使用 [OpenZepplin](https://openzeppelin.org) 开源的合约库
 * 遵循 [ConsenSys](https://consensys.net) 发布的[智能合约最佳实践](https://github.com/ConsenSys/smart-contract-best-practices)进行开发
 
-### 平台扩展性
+### 技术路线
 
-* 具备后续对接 QTUM、NEO 等其他平台的能力
-* 多平台发布令牌后的互操作性
-* 去中心化的 B3log Coin 主网  
+* [x] M1 社区站内交易
+* [ ] M2 以太坊链上交易
+* [ ] M3 B3log Coin 主网  
 
 ## 关于 B3T
 
