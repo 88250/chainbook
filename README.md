@@ -27,6 +27,8 @@
 * [黑客派](https://hacpai.com)：链书社服务端，实现账号系统、书籍管理、B3T 转账、社区论坛等
 * [B3T](https://hacpai.com/article/1516547810228)：B3log 开源社区币，以太坊 ERC20 令牌
 
+![链书社](https://img.hacpai.com/file/2018/06/a49850df84a8461ea75be8245ea1e11b_image.png)
+
 ## 动机
 
 * 让闲置书籍继续发挥社会价值
