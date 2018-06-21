@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/873584/40976715-9166f874-6901-11e8-90f7-2d7999289391.png"> [链书](https://github.com/b3log/chainbook)
+# <img src="https://b3log.org/images/brand/chainbook-32.png"> [链书](https://github.com/b3log/chainbook)
 
 * [简介](#简介)
 * [动机](#动机)
@@ -75,7 +75,7 @@
 
 ### 架构设计
 
-![Arch](https://user-images.githubusercontent.com/873584/40983020-3c14096a-6911-11e8-9004-7ffc36c0e947.png)
+![Arch](https://img.hacpai.com/file/2018/06/f570d30abd16450686c354bf1a26605b_chainbook_arch.png)
 
 ### ERC20 令牌
 
@@ -136,5 +136,5 @@
 <p align = "center">
 <strong>区块链上的纸质书交易平台，为未来而构建</strong>
 <br><br>
-<img src="https://user-images.githubusercontent.com/873584/40976894-00d0915c-6902-11e8-8230-70f88a69a25f.png">
+<img src="https://b3log.org/images/brand/chainbook-128.png">
 </p>
